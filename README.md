@@ -1,0 +1,1 @@
+Investigating US inflation trends through statistical modeling. By comparing baseline models with advanced ARIMA techniques, this project demonstrates how to effectively forecast and track economic fluctuations over time.
